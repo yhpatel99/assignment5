@@ -12,7 +12,7 @@ This assignment involves the following steps:
 2. **Filtering Data**: The dataset is filtered to include only regular season data.
 3. **Calculating Statistical Measures**: Key statistical measures (mean, variance, skew, and kurtosis) are calculated for the FGM and FGA columns.
 4. **Performing Relational T-Test**: A relational t-test is performed to compare the FGM and FGA columns.
-5. **Performing Individual T-Tests**: Individual t-tests are performed on the FGM and FGA columns to test if their means are significantly different from zero.
+5. **Performing Individual T-Tests**: Individual t-tests are performed on the FGM and FGA columns to test if their means are different from zero.
 6. **Comparing T-Test Results**: The results of the individual t-tests are compared to the relational t-test to understand the differences in statistical significance.
 
 
@@ -27,4 +27,4 @@ The script will print the following information to the console:
 
 ## Conclusion
 
-This assignment provides a comprehensive analysis of NBA player performance data, focusing on field goals. By calculating statistical measures and performing t-tests, we can gain insights into the distribution and significance of the data.
+This assignment provides an analysis of NBA player performance data, focusing on field goals. By calculating statistical measures and performing t-tests, we can gain insights into the distribution and significance of the data.
